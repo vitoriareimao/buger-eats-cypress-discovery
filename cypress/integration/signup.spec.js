@@ -1,6 +1,6 @@
 //Exportando a Classe signupPage
-import signupPage from '../pages/signupPage.js'
-import signupFactory from '../factories/SignupFactory.js'
+import signupPage from '../pages/signupPage'
+import signupFactory from '../factories/SignupFactory'
 
 
 describe('Signup', ()=>{ //Define a Suite do Teste
